@@ -1,3 +1,9 @@
+This website offers users comprehensive access to real-time and predictive weather information. At its core, the site presents current weather conditions, including temperature and even cloud cover conditions. Working on giving the information about each countries using API.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
