@@ -1,8 +1,8 @@
 This website offers users comprehensive access to real-time and predictive weather information. At its core, the site presents current weather conditions, including temperature and even cloud cover conditions. Working on giving the information about each countries using API.
-
-
-
-
+This was my first react project using API key.
+Duration for the project- 
+Days- 3 days
+Hours spent - 2-3 Hours/Day
 
 # Getting Started with Create React App
 
@@ -74,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![image](https://github.com/Snugtroller/Weather-forcast/assets/113275985/f536f1b0-3002-4b2c-83d0-a1c300df46ba)
+
